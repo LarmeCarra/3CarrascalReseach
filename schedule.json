@@ -1,0 +1,26 @@
+{
+    "Schedule": [
+        {
+            "type": "custom",
+            "year": 2026,
+            "month": 2,
+            "day": 4,
+            "hour": 18,
+            "minute": 0,
+            "chamber1time": 0,
+            "chamber2time": 1,
+            "chamber3time": 1
+        },
+        {
+            "type": "custom",
+            "year": 2026,
+            "month": 2,
+            "day": 4,
+            "hour": 2,
+            "minute": 0,
+            "chamber1time": 0,
+            "chamber2time": 1,
+            "chamber3time": 1
+        }
+    ]
+}
