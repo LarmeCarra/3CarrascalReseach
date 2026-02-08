@@ -135,9 +135,9 @@ class MyApp(MDApp):
     def build(self):
         
         self.title = "IV-DV Research application"
-        self.theme_cls.primary_palette = "#120F47"
-        self.theme_cls.secondary_palette = "#82A5DA"
-        self.theme_cls.background_color = "#120F47"  
+        self.theme_cls.primary_palette = "Blue"
+        self.theme_cls.secondary_palette = "Light-Blue"
+        self.theme_cls.background_color = "Blue"  
         self.theme_cls.theme_style = "Light"
         self.icon = "icon.jpeg"
         self.theme_cls.font_styles["Custom"] = {
@@ -687,4 +687,5 @@ class MyApp(MDApp):
 
 
 if __name__ == '__main__':
+
     MyApp().run()
